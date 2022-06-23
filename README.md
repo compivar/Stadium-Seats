@@ -1,6 +1,6 @@
 # Stadium-Seats
 Pod 2 Week 2 Capstone Brainstorming
-Original App Design Project - Isaac Varela
+Original App Design Project
 ===
 
 # Stadium Seats
