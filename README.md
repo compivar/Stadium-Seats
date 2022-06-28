@@ -73,7 +73,7 @@ The first screen will show a map of the stadiums in your area. Clicking on a sta
            * =>Checkout screen
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
+https://github.com/compivar/Stadium-Seats/blob/main/Stadium%20Seats%20Wireframes.pdf
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
